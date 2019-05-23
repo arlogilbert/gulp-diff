@@ -1,6 +1,6 @@
-# gulp-diff [![](https://travis-ci.org/creativelive/gulp-diff.svg)](https://travis-ci.org/creativelive/gulp-diff)
+# gulp-diff-4
 
-Gulp task to diff files in the stream against a destination.
+Gulp-diff migrated to support Gulp 4.x task to diff files in the stream against a destination.
 
 ## Usage
 

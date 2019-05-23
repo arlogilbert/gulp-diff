@@ -1,6 +1,6 @@
 {
   "name": "gulp-diff-4",
-  "version": "4.0.0",
+  "version": "4.0.1",
   "description": "Gulp 4 drop-in replacement for gulp-diff - Show diffs for files in the stream against those in a target directory",
   "main": "index.js",
   "scripts": {
